@@ -7,7 +7,7 @@ a solution finder, WordPress enthusiast, web geek, and ∞ inquisitive.
 
 * 🌍  I'm based in Jena, Germany
 * 🖥️  [hejchris.de](http://hejchris.de)
-* 🚀  I'm currently working on [zollsoft GmbH](https://zollsoft.de) fully remote
+* 🚀  I'm currently working on [devowl.io GmbH](https://devowl.io) fully remote
 
 <a href="https://dewp.space/@christopher" target="_blank" rel="noreferrer"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/000000007?domain=https%3A%2F%2Fdewp.space&style=for-the-badge&label=Mastodon&labelColor=1f1f1f&color=f1ea82">
 </a><a href="https://www.github.com/christopherkurth" target="_blank" rel="noreferrer"><img
